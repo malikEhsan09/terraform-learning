@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Keep the dependency lock file committed.
+!.terraform.lock.hcl
